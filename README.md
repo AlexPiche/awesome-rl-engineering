@@ -9,6 +9,7 @@
   - [📚 Contents](#-contents)
   - [🧮 Low-Level Kernels \& GPU Compute](#-low-level-kernels--gpu-compute)
   - [⚙️ Asynchronous \& System Design](#️-asynchronous--system-design)
+  - [Deep dive into Python's async/await implementation and its implications for ML workloads.](#deep-dive-into-pythons-asyncawait-implementation-and-its-implications-for-ml-workloads)
   - [🧱 RL Training \& Infrastructure](#-rl-training--infrastructure)
   - [🧩 Expert Parallelism \& Quantization](#-expert-parallelism--quantization)
   - [🎓 Courses \& Learning Resources](#-courses--learning-resources)
@@ -34,7 +35,8 @@
 
 - [Async Compute All the Things](https://interplayoflight.wordpress.com/2025/05/27/async-compute-all-the-things/)  
   Exploration of asynchronous compute paradigms and overlapping compute/data movement in GPU workloads.
-
+ - [How async/await works in Python](https://tenthousandmeters.com/blog/python-behind-the-scenes-12-how-asyncawait-works-in-python/)  
+  Deep dive into Python's async/await implementation and its implications for ML workloads.
 ---
 
 ## 🧱 RL Training & Infrastructure
