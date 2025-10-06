@@ -39,7 +39,7 @@
 
 ## 🧱 RL Training & Infrastructure
 
-- [PipelineRL — ServiceNow × Hugging Face](https://huggingface.co/blog/ServiceNow/pipelinerl)  
+- [PipelineRL — ServiceNow](https://huggingface.co/blog/ServiceNow/pipelinerl)  
   A system-level view of pipeline-based reinforcement learning training.
 
 - [Flash RL (Notion Page)](https://fengyao.notion.site/flash-rl)  
