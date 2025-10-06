@@ -25,12 +25,15 @@
 - [JAX Pallas: Blackwell Matmul](https://docs.jax.dev/en/latest/pallas/gpu/blackwell_matmul.html)  
   Official documentation on writing efficient matmul kernels for Blackwell GPUs using Pallas.
 
+- [How to Scale Your Model (JAX-ML Scaling Book)](https://jax-ml.github.io/scaling-book/)  
+  A systems-oriented guide to scaling models: rooflines, sharding, parallelism, profiling, and interconnects.
+
 ---
 
 ## ⚙️ Asynchronous & System Design
 
 - [Async Compute All the Things](https://interplayoflight.wordpress.com/2025/05/27/async-compute-all-the-things/)  
-  Exploration of asynchronous compute paradigms and overlapping compute/data movement in modern GPU workloads.
+  Exploration of asynchronous compute paradigms and overlapping compute/data movement in GPU workloads.
 
 ---
 
@@ -50,14 +53,20 @@
   Expert-parallel communication library for large-scale MoE training.
 
 - [LLMQ](https://github.com/IST-DASLab/llmq/)  
-  Quantized large model training system implemented in CUDA/C++, focusing on efficient compute and memory usage.
+  Quantized large model training implemented in CUDA/C++, focusing on compute and memory efficiency.
 
 ---
 
 ## 🎓 Courses & Learning Resources
 
 - [Stanford CS336 — Language Modeling from Scratch (Spring 2025)](https://stanford-cs336.github.io/spring2025/)  
-  Advanced course covering large-scale model training, systems, and optimization fundamentals.
+  Advanced course covering model training, system optimizations, and scaling architectures.
+
+- [The MLAI Engineer’s Starter Guide](https://multimodalai.substack.com/p/the-mlai-engineers-starter-guide)  
+  A practical guide (on MultimodalAI Substack) for aspiring ML/AI engineers on tooling, infrastructure, and workflows.
+
+- [Maximizing GPU Efficiency: The Battle](https://bytesofintelligence.substack.com/p/maximizing-gpu-efficiency-the-battle)  
+  A deep commentary on GPU efficiency challenges in modern ML workloads.
 
 ---
 
