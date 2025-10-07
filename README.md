@@ -1,11 +1,11 @@
-# 🧠 Awesome RL Training System
+# 🧠 Awesome RL Engineering
 
 > A curated list of resources exploring **reinforcement learning training systems**, GPU kernel design, asynchronous compute, and large-scale infrastructure insights.
 
 ---
 
 ## 📚 Contents
-- [🧠 Awesome RL Training System](#-awesome-rl-training-system)
+- [🧠 Awesome RL Engineering](#-awesome-rl-engineering)
   - [📚 Contents](#-contents)
   - [🤖 LLM Inference](#-llm-inference)
   - [🧮 Low-Level Kernels \& GPU Compute](#-low-level-kernels--gpu-compute)
