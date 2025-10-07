@@ -7,6 +7,7 @@
 ## 📚 Contents
 - [🧠 Awesome RL Training System](#-awesome-rl-training-system)
   - [📚 Contents](#-contents)
+  - [🤖 LLM Inference](#-llm-inference)
   - [🧮 Low-Level Kernels \& GPU Compute](#-low-level-kernels--gpu-compute)
   - [⚙️ Asynchronous \& System Design](#️-asynchronous--system-design)
   - [Deep dive into Python's async/await implementation and its implications for ML workloads.](#deep-dive-into-pythons-asyncawait-implementation-and-its-implications-for-ml-workloads)
@@ -17,6 +18,10 @@
   - [📜 License](#-license)
 
 ---
+
+## 🤖 LLM Inference
+- [LLM Inference: Continuous Batching and PagedAttention](https://insujang.github.io/2024-01-07/llm-inference-continuous-batching-and-pagedattention/)  
+  Exploration of continuous batching and PagedAttention for efficient LLM inference.
 
 ## 🧮 Low-Level Kernels & GPU Compute
 
