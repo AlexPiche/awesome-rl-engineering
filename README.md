@@ -22,6 +22,8 @@
 ## 🤖 LLM Inference
 - [LLM Inference: Continuous Batching and PagedAttention](https://insujang.github.io/2024-01-07/llm-inference-continuous-batching-and-pagedattention/)  
   Exploration of continuous batching and PagedAttention for efficient LLM inference.
+- [A Deep Dive into LLM Inference Latencies](https://blog.hathora.dev/a-deep-dive-into-llm-inference-latencies/)
+    Analysis of latency components in LLM inference and strategies to optimize them.
 
 ## 🧮 Low-Level Kernels & GPU Compute
 
