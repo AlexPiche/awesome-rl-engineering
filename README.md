@@ -10,7 +10,6 @@
   - [🤖 LLM Inference](#-llm-inference)
   - [🧮 Low-Level Kernels \& GPU Compute](#-low-level-kernels--gpu-compute)
   - [⚙️ Asynchronous \& System Design](#️-asynchronous--system-design)
-  - [Deep dive into Python's async/await implementation and its implications for ML workloads.](#deep-dive-into-pythons-asyncawait-implementation-and-its-implications-for-ml-workloads)
   - [🧱 RL Training \& Infrastructure](#-rl-training--infrastructure)
   - [🧩 Expert Parallelism \& Quantization](#-expert-parallelism--quantization)
   - [🎓 Courses \& Learning Resources](#-courses--learning-resources)
