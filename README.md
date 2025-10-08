@@ -47,13 +47,19 @@
 ---
 
 ## 🧱 RL Training & Infrastructure
-
-- [PipelineRL — ServiceNow](https://huggingface.co/blog/ServiceNow/pipelinerl)  
+ - [PipelineRL — ServiceNow](https://huggingface.co/blog/ServiceNow/pipelinerl)  
   A system-level view of pipeline-based reinforcement learning training.
 
 - [Flash RL (Notion Page)](https://fengyao.notion.site/flash-rl)  
   Notes on applying FlashAttention-style compute optimizations to reinforcement learning training loops.
 
+  Investigation into the training-inference mismatch in LLM-RL, showing how high-speed inference can destabilize training, especially for low-probability tokens and OOD contexts. 
+
+- [Your Efficient RL Framework Secretly Brings You Off-Policy RL Training](https://fengyao.notion.site/off-policy-rl)
+     Explains how modern RL frameworks for LLMs often introduce implicit off-policy training due to differences between inference and training policies. Highlights the importance of understanding policy mismatch and the role of importance sampling in correcting for it. Useful for diagnosing silent instability in RL training pipelines.
+
+- [Group Sequence Policy Optimization (GSPO)](https://arxiv.org/abs/2507.18071)
+     Paper introducing GSPO, a stable and efficient RL algorithm for training large language models. GSPO uses sequence-level importance ratios and clipping, outperforming previous token-level approaches (like GRPO), and stabilizes Mixture-of-Experts (MoE) RL training. Demonstrates improved efficiency and performance in Qwen3 models. 
 ---
 
 ## 🧩 Expert Parallelism & Quantization
